@@ -4,5 +4,6 @@ public class Runner {
     public void run() {
         System.out.println("Run!");
         System.out.println("Hello!");
+        System.out.println("Friend!");
     }
 }
